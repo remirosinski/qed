@@ -2738,6 +2738,11 @@ Ten słownik dostarcza definicji terminów technicznych i koncepcyjnych używany
 
 # Opis Książki
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **UX/UI to wszechświat w pełnej ekspansji.** Odkryj jego **8+1 praw fundamentalnych.**
 
 A gdyby zasady rządzące czasoprzestrzenią (nieskończenie wielkim) i materią w skali kwantowej (nieskończenie małym) skrywały klucz do zrewolucjonizowania Projektowania Doświadczeń?

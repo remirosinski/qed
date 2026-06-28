@@ -2738,6 +2738,11 @@ Bảng chú giải này cung cấp những định nghĩa của những thuật 
 
 # Mô tả Sách
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **UX/UI là một vũ trụ đang mở rộng toàn diện.** Hãy khám phá **8+1 định luật cơ bản của nó.**
 
 Sẽ thế nào nếu những nguyên lý chi phối không-thời gian (cái vô cùng lớn) và vật chất ở quy mô lượng tử (cái vô cùng nhỏ) nắm giữ chìa khóa để cách mạng hóa Thiết kế Trải nghiệm?

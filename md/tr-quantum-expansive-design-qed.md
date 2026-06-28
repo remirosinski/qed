@@ -2738,6 +2738,11 @@ Bu sözlük, Genişlemeci Kuantum Tasarımda (QED) kullanılan teknik ve kavrams
 
 # Kitabın Tanımı
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **UX/UI, tam bir genişleme hâlinde bir evrendir.** Onun **8+1 temel yasasını** keşfedin.
 
 Ya uzay-zamanı (sonsuz büyük) ve maddeyi kuantum ölçeğinde (sonsuz küçük) yöneten ilkeler, Deneyim Tasarımını devrimcileştirmenin anahtarını elinde tutuyorsa?

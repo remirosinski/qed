@@ -2738,6 +2738,11 @@ Dieses Glossar liefert die Definitionen der technischen und konzeptuellen Begrif
 
 # Beschreibung des Buches
 
+```{=latex}
+\vspace*{-2\baselineskip}
+```
+
+
 **Die UX/UI ist ein sich in voller Expansion befindendes Universum.** Entdecken Sie ihre **8+1 fundamentalen Gesetze.**
 
 Und wenn die Prinzipien, die die Raumzeit (das unendlich Große) und die Materie auf der Quantenskala (das unendlich Kleine) regieren, den Schlüssel besäßen, um das Erfahrungsdesign zu revolutionieren?

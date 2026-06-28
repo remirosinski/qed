@@ -2738,6 +2738,11 @@ This glossary provides the definitions of the technical and conceptual terms use
 
 # Book Description
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **UX/UI is an ever-expanding universe.** Discover its **8+1 fundamental laws.**
 
 What if the principles that govern space-time (the infinitely large) and matter at the quantum scale (the infinitely small) held the key to revolutionizing Experience Design?

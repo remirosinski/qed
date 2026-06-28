@@ -2738,6 +2738,11 @@ Glosarium ini menyediakan definisi istilah-istilah teknis dan konseptual yang di
 
 # Deskripsi Buku
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **UX/UI adalah sebuah alam semesta yang sedang berekspansi penuh.** Temukan **8+1 hukum mendasarnya.**
 
 Bagaimana jika prinsip-prinsip yang mengatur ruang-waktu (yang sangat besar) dan materi pada skala kuantum (yang sangat kecil) menyimpan kunci untuk merevolusi Desain Pengalaman?

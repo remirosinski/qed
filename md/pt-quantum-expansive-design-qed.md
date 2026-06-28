@@ -2738,6 +2738,11 @@ Este glossário fornece as definições dos termos técnicos e conceituais usado
 
 # Descrição do Livro
 
+```{=latex}
+\enlargethispage{2\baselineskip}
+```
+
+
 **A UX/UI é um universo em plena expansão.** Descubra suas **8+1 leis fundamentais.**
 
 E se os princípios que governam o espaço-tempo (o infinitamente grande) e a matéria na escala quântica (o infinitamente pequeno) detivessem a chave para revolucionar o Design de Experiência?
